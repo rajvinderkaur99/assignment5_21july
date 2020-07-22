@@ -1,0 +1,54 @@
+
+  
+.font2{
+    font-size: 2rem;
+}
+  .container{
+    height: 700px;
+    background-color: lightgrey;
+    width: 650px;
+  }
+   .container1{
+    height: 400px;
+    background-color: lightgrey;
+    width: 650px;
+    text-align: left;
+  } 
+  .b1{
+    width:625px;
+    height: 40px;
+    border-radius: 8px;
+    /* background-color:#d39e00; */
+} 
+
+.message{
+    height:100px
+}
+ 
+.padding{
+    padding: 100px;
+}
+.bg{
+    background-color: grey;
+}
+.text{
+    text-align: left;
+}
+
+/
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color:lightgrey;
+    background-clip: border-box;
+    border: 0px;
+    border-radius: 0.25rem;
+    text-align: center;
+  }
+  
+ 
